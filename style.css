@@ -1,0 +1,36 @@
+.header{
+border:5px solid black;border-radius: 5px;border-width: 5px;text-align: right;
+background-color:#bbbabb;width:1280px;padding: 0px 20px 0px 25px;
+color: red;
+}
+
+#left {
+	border:2px solid black;margin: 30px 0px 0px 3px;width:180px;height:900px;background-color: #273736;
+	text-align:center;font-size: 70px;color: #aaaaaa;
+}
+#right {
+	margin:-905px 3px 10px 200px;border: 3px solid black;height:900px;background-color: #cccccc;padding-left:10px;
+}
+.footer {
+	 border: 5px solid black;border-radius: 3px;height: 90px;font-size: 17px;background-color:#ffaaaa;padding-left: 20px;}
+h4 {
+	text-decoration: underline;color:#0f0000;
+}
+ #v {
+    text-align: left;font-size: 20px;
+}
+span {
+	font-family: arial;color:green;
+}
+th {
+	color:#f12345;
+}
+#left img{
+   height: 150px;width: 150px;padding-top:5px;
+}
+body {
+		
+    background:url('http://designfundi.com/wp-content/uploads/2015/01/website-background-870x490.jpg');
+    
+}
+
